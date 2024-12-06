@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(0, 0, 0);
+    line-height: 30px;
+}
+
+form{
+    background-color: rgb(40, 43, 43);
+    padding: 50px;
+    list-style-type: none;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 15px 17px 30px rgb(157, 20, 20);
+}
+#courses li{
+    margin-left: 80px;
+}
+#name{
+    margin-left: 40px;
+    border-radius: 10px;
+
+}
+#matno{
+    margin-left: 25px;
+    border-radius: 10px;
+
+}
+input{
+    border-radius: 10px;
+}
+#btn2{
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 0px;
+
+
+}
+.label{
+    margin-left: -300px;
+    color: white;
+}
+#courselab{
+    margin-left: -460px;
+    color: white;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px  rgb(146, 46, 62);
+}
